@@ -1,0 +1,14 @@
+.dashboard {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  
+  .character-list {
+    width: 30%;
+  }
+  
+  .character-details-panel {
+    width: 65%;
+  }
+  
